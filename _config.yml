@@ -23,7 +23,7 @@ email: jkr@ecos.au.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Follow the progress of open data initiatives, data management and systems development. 
   We post updates on work in progress and release of new features.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/public-open-data-news" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  JonasAU
