@@ -6,7 +6,7 @@ categories: GEM development
 ---
 First post on the GEM Open Data News website! It's hosted as part of the Github setup I'm working on and the purpose is to keep you updated on our open data initiatives, data management and systems development. I will try to post an update about once a month. 
 
-  [Subscribe to the RSS feed](/feed.xml) to get new posts delivered to your inbox. [Here's a guide on how to subscribe to RSS in Outlook](https://support.microsoft.com/en-us/office/subscribe-to-an-rss-feed-73c6e717-7815-4594-98e5-81fa369e951c)
+  [Subscribe to the RSS feed](/public-open-data-news/feed.xml) to get new posts delivered to your inbox. [Here's a guide on how to subscribe to RSS in Outlook](https://support.microsoft.com/en-us/office/subscribe-to-an-rss-feed-73c6e717-7815-4594-98e5-81fa369e951c)
 ## Moving to Github
 The idea with moving GEM on Github, is to have a better space for collaboration, shared code and documentation across participating institutions in GEM - both for GEM participants and for the public / users (documentation, open source tools and code examples for analysing data etc.).
 
